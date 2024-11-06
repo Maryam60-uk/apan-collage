@@ -1,2 +1,4 @@
 # apan-collage
-This is my first porject
+This is my first project
+author umaima
+
